@@ -1,0 +1,18 @@
+.emoi {
+    width: 38px;
+}
+.recorddiv {
+    display: flex;
+    justify-content: center;
+}
+button {
+    padding: 6px;
+    border-radius: 15px;
+    border-style: none;
+    background-color: var(--anothercolor);
+    color: white;
+}
+button:hover {
+    color: black;
+    background-color: blue;
+}
